@@ -1,0 +1,17 @@
+{
+  "name": "@kenshi.io/vrf-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kenshi.io/node-ecvrf": "^0.10.1",
+    "ethers": "^5.7.2"
+  },
+  "type": "module"
+}
