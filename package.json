@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "@kenshi.io/node-ecvrf": "^0.10.1",
     "ethers": "^5.7.2"
